@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole
 - 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning JavaScript, Python, and ethical hacking
+- 🌱 I’m currently learning JavaScript and ethical hacking
 - 💞️ I’m looking to collaborate on learning all of the things!
 
 <!---
