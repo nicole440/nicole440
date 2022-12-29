@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Nicole
-- 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning JavaScript and ethical hacking
-- 💞️ I’m looking to collaborate on learning all of the things!
+🌱 Self-teaching HTML/CSS/JavaScript
+☕ Java Student at Tech Elevator
+🧠 Knowledge Hoarder
 
 <!---
 nicole440/nicole440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
