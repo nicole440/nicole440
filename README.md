@@ -1,5 +1,5 @@
-🌱 Self-teaching HTML/CSS/JavaScript
-☕ Java Student at Tech Elevator
+🌱 Self-teaching HTML/CSS/JavaScript</br>
+☕ Java Student at Tech Elevator<br>
 🧠 Knowledge Hoarder
 
 <!---
