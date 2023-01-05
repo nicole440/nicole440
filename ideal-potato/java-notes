@@ -1,4 +1,6 @@
 // Person.java
 public class Person {
-    int
+	int age;
+	String name;
+	boolean isFemale;
 }
