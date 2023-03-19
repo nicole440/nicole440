@@ -1,3 +1,4 @@
+🧠 Life-long learner<br>
 🌱 Self-taught HTML/CSS/JavaScript<br>
 
 Student at Tech Elevator, graduating April 2023<br>
