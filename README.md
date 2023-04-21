@@ -1,6 +1,6 @@
 🧠 Life-long learner<br>
 🍻 Craft beer enthusiast<br>
-☕ Java bootcamp grad<br>
+🎓 Tech Elevator Java bootcamp grad<br>
 💻 Full-stack software developer
 
 <!---
