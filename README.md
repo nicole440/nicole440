@@ -1,6 +1,7 @@
 🧠 Life-long learner<br>
 🍻 Craft beer enthusiast<br>
-☕ Java Bootcamp Student at Tech Elevator, graduating April 2023!
+☕ Java bootcamp grad<br>
+💻 Full-stack software developer
 
 <!---
 nicole440/nicole440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
